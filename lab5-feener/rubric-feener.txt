@@ -1,0 +1,18 @@
+15/ 15  Documentation:
+            + All source code files (.h & .cpp) include file name, author, description etc. 
+            + Functions and variables
+              * all non-trival variables are commented 
+              * all functions preceded by brief comments  
+              * comments included before major portions of code 
+              * functions should be no longer than 1 page
+10/ 10  Compiles and runs in Visual Studio and on ranger
+20/ 20  Hash function
+20/ 20  Appropriate HashTable class
+15/ 15  Load factor alpha and number of nodes visited values
+18/ 18  Output matches the format of the example output
+2/  2  Completed rubric (estimates for each line including hours spent)
+	    
+100/100  Total
+
+
+16 Approximate number of hours spent
